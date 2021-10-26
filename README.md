@@ -1,1 +1,1 @@
-# my-first-repo
+Életem majdnem első githubos repoja :)
